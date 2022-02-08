@@ -1,0 +1,54 @@
+body{
+    background-color:
+    rgb(231, 221, 243);  
+    border-color: rgb(250, 153, 166);
+    font-family: arial;
+margin:20px;
+padding: 60px 50px 100px;
+box-shadow: 15px 15px 30px #afafaf,
+            -15px -15px 30px #ffffff;
+border-radius: 38px;
+box-shadow: 6px -6px 8px #4e0e0e,
+            -6px 6px 8px #ffffff;
+    border-style: solid;
+}
+input[type="app-content app-scrollable"] {
+    border-radius:36px;
+}
+h1 {
+    font-size:300%; 
+    text-align:center; 
+    color: rgb(216, 142, 4); 
+}
+h3 {
+    color: rgb(175, 4, 4); 
+    margin-left: 2em;
+    background-color: lightslategrey; 
+    padding: 8px;
+    margin: 15px;
+    border-color: lightsalmon;
+    border-style: double;
+    border-radius: 16px;
+    box-shadow: 6px -6px 8px #4e0e0e,
+            -6px 6px 8px #ffffff;
+}
+h4 {
+    color: rgb(102, 3, 3); 
+    margin-left: 3em;
+    margin-right: 2em;
+    
+}
+#naa {
+    font-size:120%; text-align:center; color: rgb(70, 29, 63); 
+}
+#nah {
+    font-size:120%; text-align:center; color: rgb(50, 49, 53); 
+}
+ul {
+    margin-left: 2em;
+    margin-right: 2em;
+
+}
+.pull-right {
+    float: right;
+}
